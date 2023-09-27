@@ -18,12 +18,12 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "cpp club",
     description: "welcome to c++ club!",
   },
 
   // CONFIG configration (required)
-  link: "https://cppclub.vercel.app",
+  link: "https://cppclubblog.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://cppclubblog.vercel.app", // The link to generate OG image, don't end with a slash
